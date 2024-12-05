@@ -1,27 +1,30 @@
-#Student Study Performance Analysis
+**Student Study Performance Analysis**
 This project explores the factors affecting student performance based on the Student Study Performance Dataset. The analysis aims to investigate the following questions:
 
-#Who performs better: Males or Females?
+**Who performs better: Males or Females?**
 What other factors (e.g., ethnicity, lunch type) influence student marks?
 The project involves data cleaning, data visualization, and statistical hypothesis testing (Z-test and Q-test) to draw insights from the dataset.
 
-#Project Overview
+**Project Overview**
 The dataset contains information about students' demographic attributes, study time, and their performance on various assessments. By analyzing this data, we attempt to uncover patterns and answer questions about how various factors like gender, ethnicity, and lunch type impact students' academic performance.
 
-#Key Steps in the Analysis
+**Key Steps in the Analysis**
 Data Cleaning
 
 Handling missing values
+
 Correcting any inconsistencies in the dataset
+
 Formatting columns for analysis
+
 Data Exploration
 
-#Descriptive statistics (mean, median, standard deviation)
-Visualizations (histograms, bar charts, scatter plots)
-Statistical Testing
+**Descriptive statistics (mean, median, standard deviation)**
+**Visualizations (histograms, bar charts, scatter plots)
+Statistical Testing**
 
-Z-Test: Comparing the means of two groups (e.g., male vs. female students) to see if there's a significant difference in performance.
-Q-Test: Identifying any outliers in the dataset that could skew results.
+**Z-Test**: Comparing the means of two groups (e.g., male vs. female students) to see if there's a significant difference in performance.
+**Q-Test**: Identifying any outliers in the dataset that could skew results.
 Hypothesis Testing
 
 Testing the impact of factors like ethnicity and lunch type on student performance.
@@ -29,7 +32,8 @@ Results and Insights
 
 Conclusions on gender differences in performance
 Insights into how other factors like ethnicity and lunch type influence student marks
-Technologies Used
+
+**Technologies Used**
 Python
 Pandas for data manipulation
 Matplotlib and Seaborn for data visualization
