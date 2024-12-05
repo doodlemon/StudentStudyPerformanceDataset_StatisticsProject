@@ -61,11 +61,10 @@ Gender: Male or Female
 
 Ethnicity: Ethnic background of the student
 
-This project was created by me and [@jouditafran](https://github.com/jouditafran).
-
-
 Lunch: Type of lunch (e.g., standard or free/reduced)
 
 Study time: Amount of study time per week
 
 Marks: Final grades of the student
+
+This project was created by me and [@jouditafran](https://github.com/jouditafran).
